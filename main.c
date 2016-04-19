@@ -11,6 +11,6 @@ int main(int argc, char **argv)
     feat2(3);
 
     // Addedd comment
-    return 22;
+    return 45;
 }
 
